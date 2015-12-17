@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ATest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_text_view">MyTextView</string>
+</resources>
